@@ -1,0 +1,16 @@
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\obj\Debug\net5.0\Week2.EsBolloAuto.csprojAssemblyReference.cache
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\obj\Debug\net5.0\Week2.EsBolloAuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\obj\Debug\net5.0\Week2.EsBolloAuto.AssemblyInfoInputs.cache
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\obj\Debug\net5.0\Week2.EsBolloAuto.AssemblyInfo.cs
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\obj\Debug\net5.0\Week2.EsBolloAuto.csproj.CoreCompileInputs.cache
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\bin\Debug\net5.0\Week2.EsBolloAuto.exe
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\bin\Debug\net5.0\Week2.EsBolloAuto.deps.json
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\bin\Debug\net5.0\Week2.EsBolloAuto.runtimeconfig.json
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\bin\Debug\net5.0\Week2.EsBolloAuto.runtimeconfig.dev.json
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\bin\Debug\net5.0\Week2.EsBolloAuto.dll
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\bin\Debug\net5.0\ref\Week2.EsBolloAuto.dll
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\bin\Debug\net5.0\Week2.EsBolloAuto.pdb
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\obj\Debug\net5.0\Week2.EsBolloAuto.dll
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\obj\Debug\net5.0\ref\Week2.EsBolloAuto.dll
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\obj\Debug\net5.0\Week2.EsBolloAuto.pdb
+C:\Users\isabella.centofanti\source\repos\Week2.EsBolloAuto\Week2.EsBolloAuto\obj\Debug\net5.0\Week2.EsBolloAuto.genruntimeconfig.cache
